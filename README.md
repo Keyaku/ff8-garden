@@ -4,8 +4,11 @@ A true Final Fantasy VIII editor based on [Qhimm](http://www.qhimm.com)'s source
 
 ## Qhimm's Description
 Garden is indeed a true Final Fantasy VIII editor. Using my pre-alpha version,
-I have been able to hack several scenes in FF8
-([\[1\]](http://www.qhimm.com/shots/garden_game1.jpg "Go talk to a wall.")[\[2\]](http://www.qhimm.com/shots/garden_game2.jpg "Ugh…")).
+I have been able to hack several scenes in FF8.
+
+Examples:
+![\[1\]](http://www.qhimm.com/shots/garden_game1.jpg "Go talk to a wall.")
+![\[2\]](http://www.qhimm.com/shots/garden_game2.jpg "Ugh…")
 
 After a lot of pressure (I receive 10 requests per week about this),
 I've decided to release this program, however only the source code.
