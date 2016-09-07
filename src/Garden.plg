@@ -1,0 +1,61 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Garden - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP1055.TMP" with contents
+[
+/nologo /Zp1 /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Garden.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Visual Studio 98\MyProjects\Garden\EditorText.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP1055.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP1056.TMP" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Garden.pdb" /debug /machine:I386 /out:"Debug/Garden.exe" /pdbtype:sept 
+".\Debug\Archive.obj"
+".\Debug\ChildFrm.obj"
+".\Debug\CompileSelect.obj"
+".\Debug\EditorText.obj"
+".\Debug\EditorTexture.obj"
+".\Debug\Garden.obj"
+".\Debug\IndexBar.obj"
+".\Debug\MainFrm.obj"
+".\Debug\ProgDlg.obj"
+".\Debug\Project.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Garden.res"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP1056.TMP"
+<h3>Output Window</h3>
+Compiling...
+EditorText.cpp
+D:\Visual Studio 98\MyProjects\Garden\EditorText.cpp(223) : warning C4018: '<' : signed/unsigned mismatch
+Linking...
+Creating temporary file "C:\WINDOWS\TEMP\RSP10C0.TMP" with contents
+[
+/nologo /o"Debug/Garden.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\Archive.sbr"
+".\Debug\ChildFrm.sbr"
+".\Debug\CompileSelect.sbr"
+".\Debug\EditorText.sbr"
+".\Debug\EditorTexture.sbr"
+".\Debug\Garden.sbr"
+".\Debug\IndexBar.sbr"
+".\Debug\MainFrm.sbr"
+".\Debug\ProgDlg.sbr"
+".\Debug\Project.sbr"]
+Creating command line "bscmake.exe @C:\WINDOWS\TEMP\RSP10C0.TMP"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Garden.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

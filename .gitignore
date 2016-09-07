@@ -23,6 +23,10 @@
 *.a
 *.lib
 
+# System-based files
+*.DS_Store
+*Thumbs.db
+
 # Executables
 *.exe
 *.out
