@@ -1,7 +1,7 @@
 // IndexBar1.cpp : implementation file
 //
 
-#include "stdafx.h"
+#include "ui_win32/StdAfx.h"
 #include "Garden.h"
 #include "IndexBar1.h"
 

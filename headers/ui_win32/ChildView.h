@@ -1,4 +1,4 @@
-// ChildView.h : interface of the CChildView class
+// ui_win32/ChildView.h : interface of the CChildView class
 //
 /////////////////////////////////////////////////////////////////////////////
 

@@ -1,7 +1,7 @@
 //  ProgDlg.cpp : implementation file
 // CG: This file was added by the Progress Dialog component
 
-#include "stdafx.h"
+#include "ui_win32/StdAfx.h"
 #include "resource.h"
 #include "ProgDlg.h"
 

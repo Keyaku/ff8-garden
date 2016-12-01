@@ -1,4 +1,4 @@
-// MainFrm.h : interface of the CMainFrame class
+// ui_win32/MainFrm.h : interface of the CMainFrame class
 //
 /////////////////////////////////////////////////////////////////////////////
 

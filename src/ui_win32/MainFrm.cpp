@@ -1,10 +1,10 @@
 // MainFrm.cpp : implementation of the CMainFrame class
 //
 
-#include "stdafx.h"
+#include "ui_win32/StdAfx.h"
 #include "Garden.h"
 #include "IndexBar.h"
-#include "MainFrm.h"
+#include "ui_win32/MainFrm.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

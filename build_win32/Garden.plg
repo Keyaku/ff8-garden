@@ -8,7 +8,7 @@
 <h3>Command Lines</h3>
 Creating temporary file "C:\WINDOWS\TEMP\RSP1055.TMP" with contents
 [
-/nologo /Zp1 /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Garden.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+/nologo /Zp1 /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Garden.pch" /Yu"ui_win32/StdAfx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
 "D:\Visual Studio 98\MyProjects\Garden\EditorText.cpp"
 ]
 Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP1055.TMP" 

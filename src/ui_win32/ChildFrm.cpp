@@ -1,10 +1,10 @@
 // ChildFrm.cpp : implementation of the CChildFrame class
 //
 
-#include "stdafx.h"
+#include "ui_win32/StdAfx.h"
 #include "Garden.h"
 
-#include "ChildFrm.h"
+#include "ui_win32/ChildFrm.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

@@ -2,7 +2,7 @@ SRCDIR ?= src
 OBJDIR = bld
 DEPS = $(OBJDIR)/*.d
 
-INCLUDE += -I$(SRCDIR)
+INCLUDE += -Iheaders
 
 CC ?= gcc
 LD = $(CC)

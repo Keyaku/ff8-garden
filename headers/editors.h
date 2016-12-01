@@ -9,7 +9,7 @@
 #pragma once
 #endif // _MSC_VER > 1000
 
-#include "ChildFrm.h"
+#include "ui_win32/ChildFrm.h"
 
 
 /////////////////////////////////////////////////////////////////////////////

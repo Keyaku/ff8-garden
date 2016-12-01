@@ -1,4 +1,4 @@
-// ChildFrm.h : interface of the CChildFrame class
+// ui_win32/ChildFrm.h : interface of the CChildFrame class
 //
 /////////////////////////////////////////////////////////////////////////////
 
@@ -9,7 +9,7 @@
 #pragma once
 #endif // _MSC_VER > 1000
 
-//#include "ChildView.h"
+//#include "ui_win32/ChildView.h"
 
 class CChildFrame : public CMDIChildWnd
 {

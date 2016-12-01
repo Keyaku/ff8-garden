@@ -1,11 +1,11 @@
 // Garden.cpp : Defines the class behaviors for the application.
 //
 
-#include "stdafx.h"
+#include "ui_win32/StdAfx.h"
 #include "Garden.h"
 
-#include "MainFrm.h"
-#include "ChildFrm.h"
+#include "ui_win32/MainFrm.h"
+#include "ui_win32/ChildFrm.h"
 #include "ProgDlg.h"
 
 #include "archive.h"

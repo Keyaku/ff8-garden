@@ -1,7 +1,7 @@
 // CompileSelect.cpp : implementation file
 //
 
-#include "stdafx.h"
+#include "ui_win32/StdAfx.h"
 #include "Garden.h"
 #include "CompileSelect.h"
 #include "Project.h"

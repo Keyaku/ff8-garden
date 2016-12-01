@@ -4,7 +4,7 @@
 Version=1
 LastClass=CFF8Text
 LastTemplate=generic CWnd
-NewFileInclude1=#include "stdafx.h"
+NewFileInclude1=#include "ui_win32/StdAfx.h"
 NewFileInclude2=#include "Garden.h"
 LastPage=0
 
@@ -43,13 +43,13 @@ LastObject=IDC_FILES_MAIN
 
 [CLS:CChildView]
 Type=0
-HeaderFile=ChildView.h
+HeaderFile=ui_win32/ChildView.h
 ImplementationFile=ChildView.cpp
 Filter=N
 
 [CLS:CMainFrame]
 Type=0
-HeaderFile=MainFrm.h
+HeaderFile=ui_win32/MainFrm.h
 ImplementationFile=MainFrm.cpp
 Filter=T
 BaseClass=CMDIFrameWnd
@@ -59,7 +59,7 @@ LastObject=CMainFrame
 
 [CLS:CChildFrame]
 Type=0
-HeaderFile=ChildFrm.h
+HeaderFile=ui_win32/ChildFrm.h
 ImplementationFile=ChildFrm.cpp
 Filter=M
 BaseClass=CMDIChildWnd
